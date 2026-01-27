@@ -5,13 +5,15 @@ Se deberá crear un agente LLM para poder gestionar una conversación sobre prob
 ## Integrantes
 - Tirado Mendoza Kelvin Aarón @AaronTech24
 - Delgado Quiñonez Elian Adonis @Delgado-Elian
-- Chango Burgos Michael Alexander C.I: 0942655903
-- Montesinos Villavicencio Saúl Efraín C.I: 0951981240
-- Vasquez Gorozabel Ryan Manuel C.I: 0955507819
-- Zambrano Mendoza Jeremy Dario C.I: 0953282043
-- Anzules Rivera Paulina Michelle C.I: 0956918072
-- Calero Matos Anthony David C.I: 0302523857
-- Palma Piguave Daniel Vicente C.I: 0955607387
+- Zambrano Mendoza Jeremy Dario @Jerzom
+
+  
+- Chango Burgos Michael Alexander @
+- Montesinos Villavicencio Saúl Efraín @
+- Vasquez Gorozabel Ryan Manuel @
+- Anzules Rivera Paulina Michelle @
+- Calero Matos Anthony David @
+- Palma Piguave Daniel Vicente @
 
 
 Descripción
