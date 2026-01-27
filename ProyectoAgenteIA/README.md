@@ -3,16 +3,15 @@
 Se deberá crear un agente LLM para poder gestionar una conversación sobre problemas de servicio de internet, este debe gestionar la mala actitud del cliente, persuadir y analizar el léxico y sentimiento de la conversación y poder indicar el probabilidad de deserción / cancelación del servicio.
 
 ## Integrantes
-Tirado Mendoza Kelvin Aarón @AaronTech24
-Delgado Quiñonez Elian Adonis @Delgado-Elian
-
-Chango Burgos Michael Alexander C.I: 0942655903
-Montesinos Villavicencio Saúl Efraín C.I: 0951981240
-Vasquez Gorozabel Ryan Manuel C.I: 0955507819
-Zambrano Mendoza Jeremy Dario C.I: 0953282043
-Anzules Rivera Paulina Michelle C.I: 0956918072
-Calero Matos Anthony David C.I: 0302523857
-Palma Piguave Daniel Vicente C.I: 0955607387
+- Tirado Mendoza Kelvin Aarón @AaronTech24
+- Delgado Quiñonez Elian Adonis @Delgado-Elian
+- Chango Burgos Michael Alexander C.I: 0942655903
+- Montesinos Villavicencio Saúl Efraín C.I: 0951981240
+- Vasquez Gorozabel Ryan Manuel C.I: 0955507819
+- Zambrano Mendoza Jeremy Dario C.I: 0953282043
+- Anzules Rivera Paulina Michelle C.I: 0956918072
+- Calero Matos Anthony David C.I: 0302523857
+- Palma Piguave Daniel Vicente C.I: 0955607387
 
 
 Descripción
