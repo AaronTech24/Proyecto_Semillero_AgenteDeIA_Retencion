@@ -1,3 +1,6 @@
+# USAR EL ARCHIVO .IPYNB PARA EJECUTAR. SEGÚN LAS NORMATIVAS DICE QUE HAY QUE TENER UN MAIN.PY PERO NO SE INDICÓ QUE HABRIA QUE TENER DENTRO DEL MISMO.
+# EL ARCHIVO "Proyecto_Semillero3.0_AgenteConversacionalPlus" ES EL IMPORTANTE.
+
 from langchain_classic.agents import initialize_agent, AgentType
 from langchain_classic.tools import Tool
 from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmbeddings
