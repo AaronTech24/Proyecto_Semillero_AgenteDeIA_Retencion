@@ -7,13 +7,12 @@ Se deberá crear un agente LLM para poder gestionar una conversación sobre prob
 - Delgado Quiñonez Elian Adonis @Delgado-Elian
 - Zambrano Mendoza Jeremy Dario @Jerzom
 - Vasquez Gorozabel Ryan Manuel @Ryan401-byte
-
+- Calero Matos Anthony David @anthonycalero540-oss
+- Palma Piguave Daniel Vicente @danielpalma54
   
 - Chango Burgos Michael Alexander @
 - Montesinos Villavicencio Saúl Efraín @
 - Anzules Rivera Paulina Michelle @
-- Calero Matos Anthony David @
-- Palma Piguave Daniel Vicente @
 
 
 Descripción
