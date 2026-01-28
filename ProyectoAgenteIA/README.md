@@ -11,8 +11,7 @@ Se deberá crear un agente LLM para poder gestionar una conversación sobre prob
 - Palma Piguave Daniel Vicente @danielpalma54
 - Anzules Rivera Paulina Michelle @Paulinaanz22
 - Chango Burgos Michael Alexander @Mike22A01
-
-- Montesinos Villavicencio Saúl Efraín @
+- Montesinos Villavicencio Saúl Efraín @deathsoul-04
 
 
 ## Descripción
