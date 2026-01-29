@@ -17,7 +17,7 @@ Se deberá crear un agente LLM para poder gestionar una conversación sobre prob
 ## Descripción
 ### [Qué hace el agente]
 - Link del video: youtube, Google Drive.
-
+https://drive.google.com/file/d/14S5MM7dY2aAiXv-NrTtoDLOZJZ7FK-8h/view?usp=sharing
 
 # 🚀 Agente IA: Clasificador de Riesgo de Deserción (Netlife)
 
