@@ -1,3 +1,5 @@
+# Grupo: Los Hackers de IA
+
 ## Agente IA [Agente Clasificador de Riesgo de Deserción]
 ### Descripción breve del proyecto: 
 Se deberá crear un agente LLM para poder gestionar una conversación sobre problemas de servicio de internet, este debe gestionar la mala actitud del cliente, persuadir y analizar el léxico y sentimiento de la conversación y poder indicar el probabilidad de deserción / cancelación del servicio.
